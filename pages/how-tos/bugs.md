@@ -34,14 +34,4 @@ tags:
 
     {% include alerts/important.html content="*必须*为您提交的问题报告附加 [Logcat](logcat.html) 并且*必须*在出现问题后立即捕获" %}
 
-  - [Infrastructure](https://gitlab.com/LineageOS/issues/infra)
-    - These are bugs in our website and/or software.
-    - Examples:
-      - The download portal doesn't render something correctly.
-      - There's a dead link on the website.
-      - An API returns something unexpected.
-
-
-    {% include alerts/important.html content="If the issue affects your device, this is the **wrong** place to report your issue!" %}
-
 请务必按照要求的格式来填写包含准确信息的模板, 如果不存在准确信息的问题, 我们将关闭此问题申请
